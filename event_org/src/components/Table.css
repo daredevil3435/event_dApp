@@ -1,0 +1,33 @@
+table{
+    background-color: black;
+    color:white;
+    width: 100%;
+
+}
+
+thead{
+    background-color: white;
+    color: black;
+    /* width: 35px;
+    height: 40px; */
+    width: 100%;
+
+}
+tbody{
+  width: 100%;
+}
+thead tr th{
+    margin-left: 13px;
+    margin-right: 13px;
+}
+
+tbody tr{
+    margin-left: 13px;
+    margin-right: 13px;
+    border-color:wheat ;
+} 
+
+.id,.name{
+   
+    cursor: pointer;
+}
